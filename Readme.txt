@@ -1,0 +1,1 @@
+This is a short script I created to add epicollect entries to qgis. 
